@@ -1,3 +1,7 @@
+---
+layout: page
+title: test
+---
 # testing md 
 
 ## Mumblehammock
